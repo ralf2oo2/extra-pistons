@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "extended=false,facing=down": {
+      "model": "extrapistons:block/piston_mk2",
+      "x": 90
+    },
+    "extended=false,facing=east": {
+      "model": "extrapistons:block/piston_mk2",
+      "y": 90
+    },
+    "extended=false,facing=north": {
+      "model": "extrapistons:block/piston_mk2"
+    },
+    "extended=false,facing=south": {
+      "model": "extrapistons:block/piston_mk2",
+      "y": 180
+    },
+    "extended=false,facing=up": {
+      "model": "extrapistons:block/piston_mk2",
+      "x": 270
+    },
+    "extended=false,facing=west": {
+      "model": "extrapistons:block/piston_mk2",
+      "y": 270
+    },
+    "extended=true,facing=down": {
+      "model": "extrapistons:block/piston_mk2_base",
+      "x": 90
+    },
+    "extended=true,facing=east": {
+      "model": "extrapistons:block/piston_mk2_base",
+      "y": 90
+    },
+    "extended=true,facing=north": {
+      "model": "extrapistons:block/piston_mk2_base"
+    },
+    "extended=true,facing=south": {
+      "model": "extrapistons:block/piston_mk2_base",
+      "y": 180
+    },
+    "extended=true,facing=up": {
+      "model": "extrapistons:block/piston_mk2_base",
+      "x": 270
+    },
+    "extended=true,facing=west": {
+      "model": "extrapistons:block/piston_mk2_base",
+      "y": 270
+    }
+  }
+}

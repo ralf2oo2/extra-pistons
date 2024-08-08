@@ -1,0 +1,8 @@
+{
+  "parent": "extrapistons:block/template_piston_head",
+  "textures": {
+    "platform": "extrapistons:block/piston_head_top",
+    "side": "extrapistons:block/piston_head_side",
+    "unsticky": "extrapistons:block/piston_head_top"
+  }
+}
